@@ -40,7 +40,7 @@ Once everything is set, open the `thronglets.nlogox` file located in the
 
 `Thronglets` draws inspiration from the 2025 [Black Mirror](https://www.imdb.com/title/tt2085059/) episode [Plaything](https://www.imdb.com/title/tt31215636/), which explores interactions between humans and digital beings, as well as the emergence of a collective intelligence.
 
-The interface is completely fictional and does not reflect actual software functionality. Visual frames are adapted from the [Thronglets game](https://play.google.com/store/apps/details?id=com.netflix.NGP.Venice&hl=en).
+The interface is completely fictional and does not reflect actual software functionality. The visual frames were extracted from the [thronglets game](https://play.google.com/store/apps/details?id=com.netflix.NGP.Venice&hl=en).
 
 ## How to Contribute
 

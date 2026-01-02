@@ -1,4 +1,6 @@
-# v1.0.0.9000 (development version)
+# v2.0.0.9000 (development version)
+
+# v2.0.0 (2026-12-02)
 
 - Added a `NEWS.md` file to track changes to the model.
 - The model now has a hex logo and project badges.
