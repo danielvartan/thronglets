@@ -1,0 +1,39 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ef6736",
+    "activityBar.background": "#ef6736",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#30ef63",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#ef6736",
+    "statusBar.background": "#e04812",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#ef6736",
+    "statusBarItem.remoteBackground": "#e04812",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#e04812",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#e0481299",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "e04812ff",
+  "cSpell.words": [
+    "blongthrets",
+    "gplv",
+    "magick",
+    "netlogo",
+    "nlogo",
+    "nlogox",
+    "orcid",
+    "Pxcor",
+    "Pycor",
+    "thrindlequats",
+    "Thronglet",
+    "thronglets",
+    "Vartanian",
+    "wmctrl",
+    "zlongfets"
+  ]
+}
