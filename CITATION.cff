@@ -22,6 +22,10 @@ keywords:
   - Models
   - NetLogo
   - NetLogo Models
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18128318
+    description: Zenodo Record
 repository-code: 'https://github.com/danielvartan/thronglets'
 license: GPL-3.0-or-later
-version: 2.0.0
+version: 2.0.0.9000

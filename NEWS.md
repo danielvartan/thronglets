@@ -1,5 +1,7 @@
 # v2.0.0.9000 (development version)
 
+- The model now have a [Zenodo](https://zenodo.org) DOI.
+
 # v2.0.0 (2026-12-02)
 
 - Added a `NEWS.md` file to track changes to the model.

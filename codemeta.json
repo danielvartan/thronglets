@@ -39,6 +39,9 @@
   "license": "https://www.gnu.org/licenses/gpl-3.0",
   "codeRepository": "https://github.com/danielvartan/thronglets",
   "issueTracker": "https://github.com/danielvartan/thronglets/issues",
+  "relatedLink": [
+    "https://doi.org/10.5281/zenodo.18128318"
+  ],
   "programmingLanguage": {
     "@type": "ComputerLanguage",
     "name": "NetLogo",
@@ -54,5 +57,5 @@
   "developmentStatus": "inactive",
   "readme": "https://github.com/danielvartan/thronglets/blob/main/README.md",
   "releaseNotes": "https://github.com/danielvartan/thronglets/blob/main/NEWS.md",
-  "version": "2.0.0"
+  "version": "2.0.0.9000"
 }
