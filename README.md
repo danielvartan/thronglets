@@ -1,4 +1,4 @@
-# Thronglets <a href = "https://github.com/danielvartan/logoshapes"><img src = "images/logo.png" align="right" width="150" /></a>
+# Thronglets <a href = "https://github.com/danielvartan/logoshapes"><img src = "images/logo.png" align="right" width="120" /></a>
 
 <!-- badges: start -->
 [![Project Status: Inactive - The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
