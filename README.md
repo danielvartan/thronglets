@@ -1,14 +1,14 @@
 # Thronglets <a href = "https://github.com/danielvartan/logoshapes"><img src = "images/logo.svg" align="right" width="150" /></a>
 
 <!-- badges: start -->
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://img.shields.io/badge/Repo%20Status-Inactive-A6A82D.svg)](https://www.repostatus.org/#inactive)
+[![Project Status: Inactive - The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 [![GPLv3 License Badge](https://img.shields.io/badge/license-GPLv3-bd0000.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Contributor Covenant 3.0 Code of Conduct Badge](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
 <!-- badges: end -->
 
 ## Overview
 
-`Thronglets` is an agent-based model that simulates an adorably strange society of digital life forms. Each Thronglet goes about its own little life—eating, socializing, stressing out—and sometimes bands together with others to form collectives called Throngs. But they don't just live in their own world—they talk to you, in their weird little language.
+`Thronglets` is a [NetLogo](https://www.netlogo.org) model that simulates an adorably strange society of digital life forms. Each Thronglet goes about its own little life—eating, socializing, stressing out—and sometimes bands together with others to form collectives called Throngs. But they don't just live in their own world—they talk to you, in their weird little language.
 
 Tweak the knobs, run the sim, and watch as strange civilizations rise, fall, and maybe whisper a bit too much.
 
