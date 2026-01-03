@@ -19,9 +19,21 @@ abstract: >-
 keywords:
   - Agent-Based Modeling
   - Artificial Life
+  - Black Mirror
+  - Complex Systems
+  - Complexity Science
+  - Computational Modeling
+  - Collectives
+  - Collective Behavior
+  - Collective Intelligence
+  - Emergence
+  - Individual Based Modeling
   - Models
+  - Multi-Agent Systems
   - NetLogo
   - NetLogo Models
+  - Plaything
+  - Simulations
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18128318
