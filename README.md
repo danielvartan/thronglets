@@ -32,7 +32,7 @@ Once everything is set, open the `thronglets.nlogox` file located in the
 ## Jokes Aside...
 
 <a href="https://www.imdb.com/title/tt0070544/">
-  <img src="images/plaything-poster-reduced.png" align="right" width="200" />
+  <img src="images/plaything-poster-reduced.png" align="right" width="150" />
 </a>
 
 `Thronglets` draws inspiration from the 2025 [Black Mirror](https://www.imdb.com/title/tt2085059/) episode [Plaything](https://www.imdb.com/title/tt31215636/), which explores interactions between humans and digital beings, as well as the emergence of a collective intelligence.
