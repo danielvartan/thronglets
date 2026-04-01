@@ -1,8 +1,11 @@
-# v2.0.0.9000 (development version)
+# v2.0.2.9000 (development version)
 
+# v2.0.1 (2026-04-01)
+
+- Updated documentation.
 - The model now have a [Zenodo](https://zenodo.org) DOI.
 
-# v2.0.0 (2026-12-02)
+# v2.0.0 (2026-01-02)
 
 - Added a `NEWS.md` file to track changes to the model.
 - The model now has a hex logo and project badges.

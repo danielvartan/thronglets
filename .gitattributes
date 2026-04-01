@@ -10,5 +10,5 @@
 *.nlogox linguist-language=NetLogo
 *.nlogox3d linguist-language=NetLogo
 
-images/* linguist-documentation
-docs/* linguist-documentation
+images/** linguist-documentation
+docs/** linguist-documentation
