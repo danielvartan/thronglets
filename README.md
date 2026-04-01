@@ -8,7 +8,9 @@
 
 ## Overview
 
-`Thronglets` is a [NetLogo](https://www.netlogo.org) model that simulates an adorably strange society of digital life forms. Each Thronglet goes about its own little life (eating, socializing, stressing out) and sometimes bands together with others to form collectives called Throngs. But they don't just live in their own world: they talk to you, in their weird little language.
+`Thronglets` is a [NetLogo](https://www.netlogo.org) model that simulates an adorably strange society of digital life forms.
+
+Each Thronglet goes about its own little life (eating, socializing, stressing out) and sometimes bands together with others to form collectives called Throngs. But they don't just live in their own world: they talk to you, in their weird little language.
 
 Tweak the knobs, run the sim, and watch as strange civilizations rise, fall, and maybe whisper a bit too much.
 
